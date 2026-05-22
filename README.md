@@ -6,7 +6,7 @@ Sid AI ek modern aur responsive AI Chatbot website hai, jo users ke sawalon ka r
 
 ---
 
-## ✨ Features (Khasiyat)
+## ✨ Features 
 
 - **Real-time AI Chat:** Powerful Groq API ka use karke instant answers milte hain.
 - **Modern UI:** Ekdum clean, attractive aur user-friendly interface.
@@ -15,7 +15,7 @@ Sid AI ek modern aur responsive AI Chatbot website hai, jo users ke sawalon ka r
 
 ---
 
-## 🛠️ Tech Stack (Kya-kya use hua hai)
+## 🛠️ Tech Stack 
 
 - **HTML5:** Website ka structure banane ke liye.
 - **CSS3:** Custom styling aur responsive design ke liye.
