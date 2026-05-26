@@ -17,10 +17,10 @@ Sid AI ek modern aur responsive AI Chatbot website hai, jo users ke sawalon ka r
 
 ## 🛠️ Tech Stack 
 
-- **HTML5:** Website ka structure banane ke liye.
-- **CSS3:** Custom styling aur responsive design ke liye.
-- **JavaScript (ES6):** API integration, DOM manipulation aur chatbot ki logic ke liye.
-- **Groq API:** Fast AI processing aur responses fetch karne ke liye.
-├── index.html        # Website ka main frontend structure
-├── style.css         # Styling aur animations file
-└── script.js         # API integration aur chatbot logic
+- **HTML5:** Build Website structure.
+- **CSS3:** Custom styling and responsive design.
+- **JavaScript (ES6):** API integration, DOM manipulation and chatbot logic .
+- **Groq API:** Fast AI processing and responses fetching.
+├── index.html        # Website main frontend structure
+├── style.css         # Styling and animations file
+└── script.js         # API integration and chatbot logic
