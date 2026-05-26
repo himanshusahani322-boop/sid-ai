@@ -1,6 +1,6 @@
 # 🤖 Sid AI - Smart Chatbot Website
 
-Sid AI ek modern aur responsive AI Chatbot website hai, jo users ke sawalon ka real-time me jawab deti hai. Is project ko clean UI/UX aur fast performance ke liye design kiya gaya hai.
+Sid AI is a  modern and responsive AI Chatbot website ,  users questions real-time giving the answer. That project design by clean UI/UX and fast performance.
 
 🚀 **Live Demo:** [👉 Click Here to Visit Sid AI Website]([https://sidai.netlify.app/])
 
